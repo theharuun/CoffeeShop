@@ -14,7 +14,7 @@ Doğrulama: Siparişler ve kahve türleri için giriş doğrulama işlemleri.
 Visual Studio 2022 veya daha yenisi
 Postman (API testleri için isteğe bağlı)
 Adımlar
-Bu depo bağlantısını kullanarak projeyi klonlayın: git clone https://github.com/theharuun/CoffeeShop.git
+Bu depo bağlantısını kullanarak projeyi klonlayın: "git clone https://github.com/theharuun/CoffeeShop.git"
 
 Proje dizinine gidin: cd CoffeeShop
 
