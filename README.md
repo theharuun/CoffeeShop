@@ -16,11 +16,11 @@ Postman (API testleri için isteğe bağlı)
 Adımlar
 Bu depo bağlantısını kullanarak projeyi klonlayın: "git clone https://github.com/theharuun/CoffeeShop.git"
 
-Proje dizinine gidin: cd CoffeeShop
+Proje dizinine gidin: "cd CoffeeShop"
 
-Gerekli NuGet paketlerini yükleyin: dotnet restore
+Gerekli NuGet paketlerini yükleyin: "dotnet restore"
 
-Projeyi çalıştırın:dotnet run
+Projeyi çalıştırın:"dotnet run"
 
 
 ## Kullanım
